@@ -1,0 +1,1 @@
+ <p style="text-align:center; font-size:15px; background-color:white; color:#4c9d2a; font-weight: bold; width:100%;">© 2018 SUNNYLAND ALL RIGHTS RESERVED</p>
